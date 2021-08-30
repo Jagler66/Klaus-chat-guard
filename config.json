@@ -1,0 +1,13 @@
+{
+  "token": "DISCORD_BOT_TOKEN",
+  "prefix": "PREFIX",
+  "url": "MONGOOSE_URL",
+  "whilelist": ["717411894897672212","",""],
+  "muterole": "MUTE_ROLE_ID",
+  "capskarakter": "70", 
+  "caps": true,  
+  "reklam": true,
+  "spam": true, 
+  "küfür": true,
+  "etiket": true
+}
